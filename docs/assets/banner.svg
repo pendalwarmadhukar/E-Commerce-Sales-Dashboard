@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#0ea5a9" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" fill="url(#g)" />
+  <g fill="#ffffff" font-family="Segoe UI, Roboto, Arial, sans-serif">
+    <text x="50%" y="50%" font-size="36" font-weight="700" text-anchor="middle" dominant-baseline="middle">E-Commerce Sales Dashboard</text>
+    <text x="50%" y="73%" font-size="14" text-anchor="middle" opacity="0.9">Analytics · Charts · Insights</text>
+  </g>
+</svg>
