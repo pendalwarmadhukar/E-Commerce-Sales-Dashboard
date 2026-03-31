@@ -1,11 +1,17 @@
 # 🛒 E-Commerce Sales Analytics Dashboard
 
 <p align="center">
+	<img src="./docs/assets/banner.svg" width="100%" alt="CloudShield Banner">
+</p>
+
+<h3 align="center"><font color="#ef4444">Military-Grade Encryption • Zero-Trust Access • High Performance</font></h3>
+
+<p align="center">
 	<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 	<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/CHART.JS-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+	<img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" />
 	<img src="https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-	<img src="https://img.shields.io/badge/TAILWIND-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 <p align="center">
